@@ -23,6 +23,6 @@ This is a part of the project named **Facebook Friend Recommendation System** th
 ## Related Resources
 
 - Dataset: [SNAP | Social Circles: Faceboook](https://snap.stanford.edu/data/ego-Facebook.html)
-- Video:
+- Video: [Batch Ingestion with Data Factory](https://youtu.be/fzqeo3ojYaQ)
 
 ## References
